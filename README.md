@@ -1,2 +1,2 @@
 # AGON_DEMO_03_UDC3
-A simple demo of using user defined characters. 
+The same as AGON_DEMO_02_UDC2 but now with KungFu Man (designed by net-angel). 
